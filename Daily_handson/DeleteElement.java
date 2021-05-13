@@ -6,9 +6,9 @@ public class DeleteElement {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		Scanner sc=new Scanner(System.in);
-		System.out.println("Enter the size of the array");
-		int n=sc.nextInt();
 		
+		int n=sc.nextInt();
+		System.out.println("This program is for index element deletion");
 		int a[]=new int[n];
 		System.out.println("enter the array elements");
 		for(int i=0;i<n;i++)
