@@ -21,7 +21,7 @@ public class MergeArray {
 	
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
-
+		System.out.println("This program merges two arrays of variable length");
 		System.out.print("Enter the sizes of two arrays: ");
 		int n1 = sc.nextInt();
 		int n2 = sc.nextInt();
