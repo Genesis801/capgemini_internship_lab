@@ -1,3 +1,5 @@
+package com.cg.eis.exception;
+
 public class Employee {
 	
 	private int empID;
