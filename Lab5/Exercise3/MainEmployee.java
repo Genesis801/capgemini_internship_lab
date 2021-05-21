@@ -1,3 +1,5 @@
+package com.cg.eis.exception;
+
 import java.util.Scanner;
 
 public class EmployeeMain {
